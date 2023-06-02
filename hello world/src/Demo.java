@@ -19,7 +19,7 @@ class carnivores extends Animal{
     }
 }
 class Demo{
-    public static void main(String args[]){
+    public static void main(String[] args) {
         Animal A = new Animal();
         Animal h = new herbivores();
         Animal o = new omnivores();
